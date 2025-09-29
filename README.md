@@ -1,4 +1,4 @@
-# Medi Minds: Smart Blood Donation Platform
+# Smart Blood Donation Platform
 
 
 

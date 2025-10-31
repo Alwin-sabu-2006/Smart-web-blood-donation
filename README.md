@@ -3,7 +3,7 @@
 
 
 ## 📖 Project Overview
-This project Idea  and basic foundation was developed by me and my friends for a Hackathon ,but later i decided to extend the project in my own way maaking more and more changes to it.
+This project Idea  and basic foundation was developed by me and my friends for a Hackathon ,but later i decided to extend the project in my own way making more and more changes to it.
 
 **Medi Minds** is a modern, web-based platform designed to efficiently and reliably connect blood donors with patients in need. Built with a user-centric approach, the application provides a secure and intuitive interface for posting blood requests, finding compatible donors, and managing the donation process from start to finish. The system ensures timely assistance during emergencies while prioritizing donor safety and data privacy.
 
